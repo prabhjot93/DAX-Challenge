@@ -1,4 +1,4 @@
-# DAX Measure code uding INTERSECT
+# DAX Measure code using INTERSECT
 SUMX(
     ADDCOLUMNS(
     SUMMARIZE(Data,
